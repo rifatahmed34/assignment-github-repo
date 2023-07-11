@@ -27,6 +27,8 @@
 .pragraph-text{
     width: 520px;
     flex-direction: column;
+    font-size: 10px;
+    color: gray;
 }
 .primary{
     padding: 20px;
@@ -47,10 +49,17 @@
     font-weight: bold;
     
 }
+.rose-image{
+    margin-right: 200px;
+}
 .primary-text{
     padding: 130px;
     border-radius: px;
     margin: 150px;
+    margin-right: 20px;
+}
+.main-container{
+    width: vh;
 }
 
 .main-section{
@@ -61,6 +70,8 @@
 .lorem-text{
     text-align: 50%;
     font-weight: bold;
+    font-size: 10px;
+    color: grey;
 }
 
 .main-section{
@@ -81,21 +92,34 @@
 }
 .image-container{
     display: flex;
-    justify-content: center;
+    align-items: center;
     padding: 20Px;
     margin-top: 50px;
-    margin-left: 300px;
+    margin-left: 25px;
     gap: 30px;
+    padding: 20px;
 }
 .image-container{
     width: 100vh;
     
 }
+.pngwing{
+    margin-left: 30px;
+}
+.Rectangle{
+    margin-bottom: 40px;
+}
+.png-flower{
+    margin-bottom: 30px;
+}
+
 .box-section{
     width: 40vh;
     width: 1000px;
-    height: 250px;
-    background-color: aquamarine;
+    height: 300px;
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    background-size: 1000px 400px;
+    background-repeat: no-repeat;
     text-align: center;
     margin-left: 180px;
     margin-top: 80px;
@@ -107,7 +131,26 @@
 padding-top: 80px;
 }
 .tow-item{
-    gap: 40px;
+    display: flex;
+    width: 400px;
+    height: 30px;
+    background-color: rgb(103, 209, 209);
+    margin-left: 250px;
+    margin-top: 20px;
+    border-radius: 3px;
+    font-size: 10px;
+}
+.enter-class{
+    display: flex;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+.sub{
+    margin-left: 420px;
+    padding: 10px 20px;
+    background-color: rgb(35, 171, 126);
+    border-radius: 5px;
+    margin-top: -6px;
 }
 .footer-container{
     width: 1500px;
@@ -116,12 +159,22 @@ padding-top: 80px;
     background-color: black;
     color: white;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 80px;
+
     
 }
 .least-head{
     color: red;
 }
 .copyright-text{
-    padding: 10px;
+    padding: 15px;
+    color: grey;
+}
+.fainal-stape{
+    margin-top: 100px;
+    padding: 50px;
+}
+.pera-text{
+    font-size: 12px;
+    color: rgb(210, 206, 190);
 }
