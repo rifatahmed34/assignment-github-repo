@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.section1{
+    background-color: rgb(189, 198, 206);
+}
+.frist-flower{
+    display: flex;
+    justify-content: space-around;
+    height: 80vh;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    gap: 40px;
+    background-color: rgb(189, 198, 206);
+    
+}
+.texr-title{
+    font-size: 40px;
+}
+.Rectangle{
+    height: 510px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.pragraph-text{
+    width: 520px;
+    flex-direction: column;
+}
+.primary{
+    padding: 20px;
+}
+.shop-button{
+   padding: 10px 20px;
+   background-color: rgb(35, 171, 126);
+   margin-top: 20px;
+   border-radius: 5px;
+}
+
+.section-2{
+    display: flex;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+    background-color: rgb(129, 210, 183);
+    font-weight: bold;
+    
+}
+.primary-text{
+    padding: 130px;
+    border-radius: px;
+    margin: 150px;
+}
+
+.main-section{
+    align-items: center;
+    height: 60vh;
+    text-align: center
+}
+.lorem-text{
+    text-align: 50%;
+    font-weight: bold;
+}
+
+.main-section{
+    height: auto;
+    align-items: center;
+    margin-top: 80px;
+}
+.main-head{
+    font-weight: bold;
+    font-size: 25px;
+}
+.parent{
+    width: 250px;
+    height: 400px;
+}
+.pngwing{
+    width: 80%;
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+    padding: 20Px;
+    margin-top: 50px;
+    margin-left: 300px;
+    gap: 30px;
+}
+.image-container{
+    width: 100vh;
+    
+}
+.box-section{
+    width: 40vh;
+    width: 1000px;
+    height: 250px;
+    background-color: aquamarine;
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 80px;
+    align-items: center;
+    
+}
+
+.box-container{
+padding-top: 80px;
+}
+.tow-item{
+    gap: 40px;
+}
+.footer-container{
+    width: 1500px;
+    height: 300px;
+    align-items: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    
+}
+.least-head{
+    color: red;
+}
+.copyright-text{
+    padding: 10px;
+}
